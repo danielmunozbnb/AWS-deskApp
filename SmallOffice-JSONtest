@@ -1,0 +1,77 @@
+{
+  "body": {
+    "floorPlan": "https://www.edrawsoft.com/templates/images/office-layout.png",
+    "desks": [
+      {
+        "id": "DESK1",
+        "x": 444,
+        "y": 140,
+        "state": "occupied",
+        "worker": {
+          "name": "Andrei",
+          "picture": "https://lh3.googleusercontent.com/a-/AFdZuco-VWJ7NI8W56Ofq5XChuqhjJ9H0V4IhM3VKm00=s288-p-no"
+        }
+      },
+      {
+        "id": "E3",
+        "x": 493,
+        "y": 140,
+        "state": "occupied",
+        "worker": {
+          "name": "Morgan Freeman",
+          "picture": "https://www.themoviedb.org/t/p/w235_and_h235_face/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+        }
+      },
+      {
+        "id": "E2",
+        "x": 444,
+        "y": 196,
+        "state": "occupied",
+        "worker": {
+          "name": "John Malkovich",
+          "picture": "https://static.tvtropes.org/pmwiki/pub/images/johnmalkovich.jpg"
+        }
+      },
+      {
+        "id": "E4",
+        "x": 493,
+        "y": 196,
+        "state": "unavailable"
+      },
+      {
+        "id": "E5",
+        "x": 153,
+        "y": 90,
+        "state": "free"
+      },
+      {
+        "id": "E6",
+        "x": 608,
+        "y": 377,
+        "state": "unavailable"
+      },
+      {
+        "id": "E7",
+        "x": 33,
+        "y": 368,
+        "state": "occupied",
+        "worker": {
+          "name": "Robert DeNiro",
+          "picture": "https://simg.nicepng.com/png/small/821-8212780_robert-de-niro.png"
+        }
+      },
+      {
+        "id": "E8",
+        "x": 33,
+        "y": 278,
+        "state": "free"
+      },
+      {
+        "id": "E9",
+        "x": 33,
+        "y": 462,
+        "state": "free"
+      }
+    ]
+  }
+}

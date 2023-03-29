@@ -1,0 +1,61 @@
+{
+  "body": {
+    "floorPlan": "https://www.edrawsoft.com/templates/images/office-layout.png",
+    "desks": [
+      {
+        "id": "DESK1",
+        "x": 444,
+        "y": 140,
+        "state": "free"
+      },
+      {
+        "id": "E3",
+        "x": 493,
+        "y": 140,
+        "state": "free"
+      },
+      {
+        "id": "E2",
+        "x": 444,
+        "y": 196,
+        "state": "free"
+      },
+      {
+        "id": "E4",
+        "x": 493,
+        "y": 196,
+        "state": "unavailable"
+      },
+      {
+        "id": "E5",
+        "x": 153,
+        "y": 90,
+        "state": "free"
+      },
+      {
+        "id": "E6",
+        "x": 608,
+        "y": 377,
+        "state": "unavailable"
+      },
+      {
+        "id": "E7",
+        "x": 33,
+        "y": 368,
+        "state": "free"
+      },
+      {
+        "id": "E8",
+        "x": 33,
+        "y": 278,
+        "state": "free"
+      },
+      {
+        "id": "E9",
+        "x": 33,
+        "y": 462,
+        "state": "free"
+      }
+    ]
+  }
+}

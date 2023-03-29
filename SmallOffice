@@ -9,7 +9,7 @@ import time
 start_time = time.time()
 
 
-PIC_RADIUS = 45
+PIC_RADIUS = 20
 CIR_RADIUS = int(PIC_RADIUS * 3/3) #2/3
 STATES = {
     'occupied': (249, 107, 133),

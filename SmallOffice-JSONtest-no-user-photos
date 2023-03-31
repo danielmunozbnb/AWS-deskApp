@@ -6,7 +6,7 @@
         "id": "DESK1",
         "x": 444,
         "y": 140,
-        "state": "free"
+        "state": "unavailable"
       },
       {
         "id": "E3",
@@ -48,13 +48,61 @@
         "id": "E8",
         "x": 33,
         "y": 278,
-        "state": "free"
+        "state": "unavailable"
       },
       {
         "id": "E9",
         "x": 33,
         "y": 462,
         "state": "free"
+      },
+      {
+        "id": "Z1",
+        "x": 192,
+        "y": 332,
+        "state": "free"
+      },
+      {
+        "id": "Z2",
+        "x": 257,
+        "y": 332,
+        "state": "unavailable"
+      },
+      {
+        "id": "Z3",
+        "x": 310,
+        "y": 332,
+        "state": "free"
+      },
+      {
+        "id": "Z4",
+        "x": 374,
+        "y": 332,
+        "state": "unavailable"
+      },
+      {
+        "id": "Z5",
+        "x": 374,
+        "y": 393,
+        "state": "free"
+      },
+      {
+        "id": "Z6",
+        "x": 310,
+        "y": 393,
+        "state": "free"
+      },
+      {
+        "id": "Z7",
+        "x": 256,
+        "y": 393,
+        "state": "unavailable"
+      },
+      {
+        "id": "Z8",
+        "x": 190,
+        "y": 393,
+        "state": "unavailable"
       }
     ]
   }
